@@ -48,3 +48,5 @@ streamlit run ai_chess_agent.py
 ```
 
 > **Note:** The `cd` path in step 1 has been corrected to match the actual directory structure in the repository.
+
+> **Personal note:** I found that using `gpt-4o` instead of `gpt-4` noticeably improves the quality of moves and reduces illegal move attempts by the agents. Recommended if you have access.
