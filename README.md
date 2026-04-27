@@ -28,6 +28,7 @@
 <hr/>
 
 <!-- Personal fork — using this repo to learn and experiment with LLM app patterns. -->
+<!-- My focus areas: multi-agent systems and RAG pipelines. Tracking progress in NOTES.md. -->
 
 <div align="center">
 
@@ -51,5 +52,4 @@ AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Ski
 
 <p>
 <a href="#-quick-start"><kbd> &nbsp; 🚀 Quick Start &nbsp; </kbd></a>
-<a href="#-featured-ai-projects"><kbd> &nbsp; 📂 Browse Templates &nbsp; </kbd></a>
-<a href="https://www.theunwindai.com"><kbd> &nbsp; 📚 Step-by-Step Tutoria
+<a href="#-featured-ai-projects"><kbd> &nbsp; 📂 Browse Templates &n
